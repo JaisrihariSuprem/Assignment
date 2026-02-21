@@ -1,5 +1,7 @@
-a=input()
-b=input()
-print("Enter the First name: ",a)
-print("Enter the Last number: ",b)
-print("Hello,"+a+b+"!welcome to python Program"")
+a=int(input("Enter the number: "))
+b=int(input("Enter the number: ")
+print("Addition",a+b)
+print("Substraction",a-b)
+print("multiplication",a*b)
+print("division",a/b)
+
